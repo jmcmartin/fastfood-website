@@ -1,0 +1,27 @@
+html {
+    background: red;
+}
+h1 {
+    color: yellow
+}
+.highestprice {
+    background: blue;
+}
+.favoriteitem {
+    background: orange
+}
+.foodmenutable {
+    border: 15px solid green;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    background: #003366
+}
+.headerrow {
+    font-family: cursive;
+    font-size: 25px;
+    color: red;
+    background: purple;
+    background-size: cover;
+}
